@@ -1,4 +1,4 @@
-# Olá, eu sou o Gabriel Prata (Cinf4)! 👋
+# Olá, eu sou o Gabriel Prata! 👋
 
 Estudante de **Desenvolvimento de Sistemas na ETEC** e profissional focado em organização, processos técnicos e resolução de problemas. 
 
