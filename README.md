@@ -67,14 +67,14 @@ HTML5, CSS3 e W3.CSS
 <div align="left">
   <img 
     height="170em" 
-    src="https://github-readme-stats.vercel.app/api?username=thynx31&show_icons=true&theme=tokyonight&hide_border=true" 
-    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=thynx31&show_icons=true&theme=github_dark&hide_border=true" 
+    alt="Estatísticas do GitHub de Gabriel Sinfães"
   />
 
   <img 
     height="170em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thynx31&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thynx31&layout=compact&theme=github_dark&hide_border=true" 
+    alt="Linguagens mais usadas por Gabriel Sinfães"
   />
 </div>
 
