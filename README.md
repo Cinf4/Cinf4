@@ -64,17 +64,19 @@ HTML5, CSS3 e W3.CSS
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<div align="left">
   <img 
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=thynx31&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
+    height="170em" 
+    src="https://github-readme-stats.vercel.app/api?username=thynx31&show_icons=true&theme=tokyonight&hide_border=true" 
+    alt="GitHub Stats"
   />
 
   <img 
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thynx31&layout=compact&theme=github_dark&hide_border=true"
+    height="170em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thynx31&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Top Languages"
   />
-</p>
+</div>
 
 ---
 
@@ -90,7 +92,7 @@ HTML5, CSS3 e W3.CSS
     />
   </a>
 
-  <a href="tynx31@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="gabriel.prata20@gmail.com" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://cdn-icons-png.flaticon.com/512/732/732200.png" 
       alt="Email" 
