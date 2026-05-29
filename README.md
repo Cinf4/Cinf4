@@ -64,19 +64,9 @@ HTML5, CSS3 e W3.CSS
 
 ## 📊 GitHub Stats
 
-<div align="left">
-  <img 
-    height="170em" 
-    src="https://github-readme-stats.vercel.app/api?username=thynx31&show_icons=true&theme=github_dark&hide_border=true" 
-    alt="Estatísticas do GitHub de Gabriel Sinfães"
-  />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thynx31&show_icons=true&theme=github_dark&hide_border=true)
 
-  <img 
-    height="170em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thynx31&layout=compact&theme=github_dark&hide_border=true" 
-    alt="Linguagens mais usadas por Gabriel Sinfães"
-  />
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thynx31&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
