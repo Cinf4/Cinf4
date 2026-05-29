@@ -1,28 +1,116 @@
-# Olá, eu sou o Gabriel Sinfães! 👋
+<h1 align="left">Olá, eu sou o Gabriel Sinfães 👋</h1>
 
-Estudante de **Desenvolvimento de Sistemas na ETEC** e profissional focado em organização, processos técnicos e resolução de problemas. 
+<p align="left">
+  Estudante de <strong>Desenvolvimento de Sistemas na ETEC</strong>, com foco em organização, lógica de programação, desenvolvimento web e resolução de problemas.
+</p>
 
+---
 
-### 🚀 Sobre Mim
-- 🎓 Atualmente cursando o técnico em **Desenvolvimento de Sistemas** (ETEC), onde aprofundo meus conhecimentos em lógica, estruturas de dados e desenvolvimento de software.
-- 🐧 Entusiasta de **Linux** 
+## 🚀 Sobre mim
 
+- 🎓 Atualmente cursando <strong>Desenvolvimento de Sistemas</strong> na ETEC.
+- 💻 Estudando programação, estrutura de dados, desenvolvimento web e boas práticas de código.
+- 🐧 Entusiasta de Linux, tecnologia e organização de ambientes de desenvolvimento.
+- 📚 Em constante evolução, buscando construir projetos bem estruturados e com propósito.
+- 🎯 Objetivo: crescer como desenvolvedor, criando soluções simples, funcionais e bem organizadas.
 
-### 🛠️ Tecnologias e Habilidades
+---
 
-**Linguagens e Web:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 🛠️ Tecnologias e Ferramentas
 
-**Ferramentas e Sistemas:**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,linux,git,github,vscode" />
+</p>
 
+### Atualmente estudando
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,mysql" />
+</p>
 
-### 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-prata-06127132a/)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thynx31@gmail.com)
+---
 
+## 📌 Áreas de interesse
+
+- Desenvolvimento Front-end
+- Desenvolvimento de Sistemas
+- Automação de processos
+- Banco de dados
+- Linux e ambientes de desenvolvimento
+- Boas práticas de organização de código
+
+---
+
+## 📂 Projetos em destaque
+
+### 🍪 Brié Cookies — OnePage
+
+Projeto escolar/técnico de uma página web OnePage para uma empresa fictícia de cookies artesanais.
+
+**Tecnologias utilizadas:**  
+HTML5, CSS3 e W3.CSS
+
+**Principais pontos do projeto:**
+
+- Estrutura HTML semântica
+- Layout responsivo
+- Sidebar com navegação interna
+- Seções HOME, PARCEIROS e FAQ
+- Uso de imagens locais
+- Estilização temática com cores acolhedoras
+- Organização de arquivos e comentários no código
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img 
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=thynx31&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
+  />
+
+  <img 
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thynx31&layout=compact&theme=github_dark&hide_border=true"
+  />
+</p>
+
+---
+
+## 📫 Como me encontrar
+
+<p align="left">
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/gabriel-prata-06127132a/)" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+      alt="LinkedIn" 
+      width="36" 
+      height="36"
+    />
+  </a>
+
+  <a href="tynx31@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://cdn-icons-png.flaticon.com/512/732/732200.png" 
+      alt="Email" 
+      width="36" 
+      height="36"
+    />
+  </a>
+
+  <a href="https://github.com/thynx31" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+      alt="GitHub" 
+      width="36" 
+      height="36"
+    />
+  </a>
+</p>
+
+---
+
+<p align="left">
+  <em>"A evolução começa quando a curiosidade vira prática."</em>
+</p>
