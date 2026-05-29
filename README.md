@@ -62,14 +62,6 @@ HTML5, CSS3 e W3.CSS
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thynx31&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thynx31&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## 📫 Como me encontrar
 
 <p align="left">
