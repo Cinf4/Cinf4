@@ -99,7 +99,7 @@ HTML5, CSS3 e W3.CSS
     />
   </a>
 
-  <a href="https://github.com/thynx31" target="_blank" rel="noopener noreferrer">
+  <a href="[https://github.com/thynx31](https://github.com/Cinf4)" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
       alt="GitHub" 
